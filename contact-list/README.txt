@@ -1,9 +1,9 @@
-=== Contact List – Premium Staff Listing, Business Directory Plugin & Address Book ===
+=== Contact List — Directory Plugin ===
 Contributors: anssilaitila, freemius
 Tags: directory plugin, listing, directory, business directory, staff list
 Requires at least: 5.4.0
 Tested up to: 6.7
-Stable tag: 3.0.3
+Stable tag: 3.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ One-Stop Directory Plugin! Build an address book, staff listing or contact direc
 
 == Description ==
 
-== The easiest business directory plugin for WordPress ==
+== The best directory plugin for WordPress ==
 
 Looking for a simple yet comprehensive directory plugin for a WordPress website? If the answer is YES, then you are in the right place!
 
@@ -253,6 +253,9 @@ You can use the Contact List plugin for any purpose that suits your needs. That 
 6. Contact management
 
 == Changelog ==
+
+= 3.0.4 - 2024-10-26 =
+* (Free + All plans) Search log improvements
 
 = 3.0.3 - 2024-10-23 =
 * (All plans) New feature: country detector (plugin settings, Search log tab). When the setting is active, search log will contain the searcher's country.
