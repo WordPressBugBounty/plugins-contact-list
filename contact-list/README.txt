@@ -3,7 +3,7 @@ Contributors: anssilaitila, freemius
 Tags: staff directory, directory, staff, address book, listings
 Requires at least: 6.2
 Tested up to: 6.8
-Stable tag: 3.0.10
+Stable tag: 3.0.11
 Requires PHP: 7.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -250,6 +250,9 @@ You can use the Contact List plugin for any purpose that suits your needs. That 
 6. Contact management
 
 == Changelog ==
+
+= 3.0.11 - 2025-05-12 =
+* Bug fixes
 
 = 3.0.10 - 2025-05-07 =
 * Tweaks and fixes
