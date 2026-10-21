@@ -1,9 +1,9 @@
-=== Contact List – Directory Plugin  ===
+=== Contact List – Online Staff Directory & Address Book  ===
 Contributors: anssilaitila, freemius
-Tags: staff directory, directory, business directory, address book, directory plugin
+Tags: staff directory, directory, staff, address book, listings
 Requires at least: 6.2
-Tested up to: 7.0
-Stable tag: 3.0.22
+Tested up to: 7.1
+Stable tag: 3.0.23
 Requires PHP: 7.2
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -250,6 +250,9 @@ You can use the Contact List plugin for any purpose that suits your needs. That 
 6. Contact management
 
 == Changelog ==
+
+= 3.0.23 - 2026-10-21 =
+* (Free + All plans) Updated Freemius SDK to the latest version
 
 = 3.0.22 - 2026-08-09 =
 * (Free + All plans) Bug fixes
